@@ -1,0 +1,13 @@
+var Number;
+Number = 30;
+NolNumber = 2;
+var LowNumber;
+LowNumber = 24;
+console.log(Number + LowNumber);
+console.log('coOlbro'.toLowerCase());
+console.log('nothing'.toUpperCase());
+console.log(Number - LowNumber);
+console.log( Number * NolNumber);
+console.log(Number / NolNumber);
+console.log(Number % NolNumber);
+console.log(NolNumber ** 4);
